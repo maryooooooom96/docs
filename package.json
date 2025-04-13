@@ -325,7 +325,7 @@
     "slash": "^5.1.0",
     "strip-ansi": "7.1.0",
     "styled-components": "^5.3.5",
-    "swr": "^2.2.4",
+    "swr": "^2.3.3",
     "tcp-port-used": "1.0.2",
     "tsx": "^4.19.3",
     "unified": "^11.0.3",
